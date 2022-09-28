@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ayush Luthra</h1>
 
+
 <h4>I am a Tech enthusiast. I love to build apps that are interesting and useful. and I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems sparkles.</h4>
 <br>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushluthra2001" alt="ayushluthra2001" /></a> </p>
+<p align="center">
+  <img width="660" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=1&column=7">
+</p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - ⚗️ I’m currently learning **Kotlin**
 
