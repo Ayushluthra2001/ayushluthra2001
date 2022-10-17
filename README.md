@@ -37,6 +37,10 @@ A hard working and energetic person who loves to code.
 <br>
 <a href="https://github.com/Ayushluthra2001" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushluthra2001&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+
+
+[![@ayushluthra2001's Holopin board](https://holopin.me/ayushluthra2001)](https://holopin.io/@ayushluthra2001)
+
 ## 📩 Contact Me 👇
 
 <p align="left"> 
@@ -49,3 +53,4 @@ A hard working and energetic person who loves to code.
 </p>
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#0099ff" fill-opacity="1" d="M0,192L48,176C96,160,192,128,288,112C384,96,480,96,576,117.3C672,139,768,181,864,181.3C960,181,1056,139,1152,117.3C1248,96,1344,96,1392,96L1440,96L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
+
