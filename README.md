@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img width="660" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=1&column=7">
+  <img width="660" src="https://github-profile-trophy.vercel.app/?username=ayushluthra2001&theme=onedark&row=1&column=7">
 </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
