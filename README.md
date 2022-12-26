@@ -9,11 +9,11 @@
 </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- ⚗️ I’m currently learning **Recat**
+- ⚗️ I’m currently learning **React**
 
 - 🌱 I’m actively looking for oppoturnities.
 
-- 💬 Ask me about **Web Development , Android Development , Kotlin , C++ , Recat**
+- 💬 Ask me about **Web Development , Android Development , Kotlin , C++ , React**
 
 - 📫 How to reach me **ayushluthra62@gmail.com**
 
@@ -26,7 +26,7 @@ A hard working and energetic person who loves to code.
 ## 📊 GitHub Stats
 <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayushluthra2001&show_icons=true&count_private=true&theme=tokyonight" alt="ayushluthra2001's github stats" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushluthra2001&theme=tokyonight" /> </p>
 
-
+## 🐧 Open Source Contributions-Holopin Badges
 [![@ayushluthra2001's Holopin board](https://holopin.me/ayushluthra2001)](https://holopin.io/@ayushluthra2001)
 
 ## 📩 Contact Me 👇
