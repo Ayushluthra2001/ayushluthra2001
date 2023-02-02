@@ -26,6 +26,8 @@ A hard working and energetic person who loves to code.
 ## 📊 GitHub Stats
 <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayushluthra2001&show_icons=true&count_private=true&theme=tokyonight" alt="ayushluthra2001's github stats" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushluthra2001&theme=tokyonight" /> </p>
 
+<a href="https://github.com/ayushluthra2001/github-readme-activity-graph"><img alt="Ayush Luthra Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ayushluthra2001&theme=tokyonight&bg_color=fff8dc&color=5bcdec&line=33ff33&point=ffa500&hide_border=true" /></a>
+
 ## 🐧 Open Source Contributions-Holopin Badges
 [![@ayushluthra2001's Holopin board](https://holopin.me/ayushluthra2001)](https://holopin.io/@ayushluthra2001)
 
