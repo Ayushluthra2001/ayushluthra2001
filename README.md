@@ -9,11 +9,11 @@
 </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- ⚗️ I’m currently learning **React**
+- ⚗️ I’m currently learning **Kotlin**
 
 - 🌱 I’m actively looking for oppoturnities.
 
-- 💬 Ask me about **Web Development , Android Development , Kotlin , C++ , React**
+- 💬 Ask me about **Android Development , Web Development , Kotlin , C++ , React**
 
 - 📫 How to reach me **ayushluthra62@gmail.com**
 
